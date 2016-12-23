@@ -1,0 +1,44 @@
+{
+  "author": {
+    "name": "wshxbqq",
+    "email": "wshxbqq@gmail.com",
+    "url": "https://github.com/jdf2e/jdf"
+  },
+  "bugs": {
+    "url": "https://github.com/jdf2e/jdf/issues"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "description": "jdf-css-sprite",
+  "devDependencies": {},
+  "directories": {},
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "files": [
+    "jdf-css-sprite",
+    "index.js"
+  ],
+  "gitHead": "d4efe9043b2693f934231482bab9e801518c03e5",
+  "homepage": "https://github.com/jdf2e/jdf",
+  "keywords": [
+    "jdf"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "wshxbqq",
+      "email": "wshxbqq@gmail.com"
+    }
+  ],
+  "name": "jdf-css-sprite",
+  "optionalDependencies": {},
+  "readme": "jdf css sprite encoder",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdf2e/jdf.git"
+  },
+  "scripts": {},
+  "version": "1.1.2"
+}
