@@ -2,14 +2,14 @@
   "author": {
     "name": "wshxbqq",
     "email": "wshxbqq@gmail.com",
-    "url": "https://github.com/jdf2e/jdf"
+    "url": "https://github.com/jdf2e/jdf-css-sprite"
   },
   "bugs": {
     "url": "https://github.com/jdf2e/jdf/issues"
   },
   "contributors": [],
   "dependencies": {},
-  "description": "jdf-css-sprite",
+  "description": "负责合并 拼合 css sprite",
   "devDependencies": {},
   "directories": {},
   "engines": {
@@ -20,7 +20,7 @@
     "index.js"
   ],
   "gitHead": "d4efe9043b2693f934231482bab9e801518c03e5",
-  "homepage": "https://github.com/jdf2e/jdf",
+  "homepage": "https://github.com/jdf2e/jdf-css-sprite",
   "keywords": [
     "jdf"
   ],
@@ -40,5 +40,5 @@
     "url": "git://github.com/jdf2e/jdf.git"
   },
   "scripts": {},
-  "version": "1.1.2"
+  "version": "1.1.3"
 }
