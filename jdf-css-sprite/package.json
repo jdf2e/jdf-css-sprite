@@ -1,6 +1,6 @@
 {
   "name": "images",
-  "version": "2.1.12",
+  "version": "2.1.13",
   "description": "Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Node.js",
   "main": "index.js",
   "bindingsCDN": "https://raw.githubusercontent.com/zhangyuanwei/node-images/master/bindings/",
@@ -36,6 +36,14 @@
     "8.0.0": [
       "8.0.0",
       "8.99.99"
+    ],
+    "9.0.0": [
+      "10.0.0",
+      "10.99.99"
+    ],
+    "10.0.0": [
+      "10.0.0",
+      "10.99.99"
     ]
   },
   "scripts": {
@@ -78,8 +86,7 @@
     "name": "2betop",
     "email": "2betop.cn@gmail.com"
   },
-  "maintainers": [
-    {
+  "maintainers": [{
       "name": "2betop",
       "email": "2betop.cn@gmail.com"
     },
